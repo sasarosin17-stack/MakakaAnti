@@ -1,0 +1,6 @@
+{
+  "name": "ГИС 'Орангутанг-Контроль'",
+  "description": "Центральный Аппарат Мониторинга Лояльности: Гротескный политический интерфейс для выявления приматов.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
